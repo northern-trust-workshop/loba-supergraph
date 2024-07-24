@@ -7,7 +7,7 @@ on:
       - '**.yml'
 
 env:
-  GEN: "ws2"
+  GEN: "nt2"
 
 jobs:
   create:
